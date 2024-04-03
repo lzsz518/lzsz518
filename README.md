@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lzsz518
 - 👀 I’m interested in C/C++ Image processing Game 
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Godot
 - 💞️ I’m looking to collaborate on C/C++ project
 - 📫 How to reach me huwenbo518@gmail.com
 
